@@ -1,0 +1,1 @@
+# Smart-Clipboard-Manager-Pro
