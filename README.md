@@ -171,8 +171,6 @@ python main.py
 
 ![History](screenshots/history.png)
 
-> Add your own screenshots inside the `screenshots` folder and update the paths above.
-
 ---
 
 ## 🎯 Use Cases
