@@ -223,8 +223,11 @@ This project is licensed under the MIT License.
 **Abdur Rahman**
 
 🎓 Computer & Communication Engineering Student
+
 💻 Full Stack Web Developer
+
 🐍 Python Developer
+
 🚀 Passionate About Technology & Innovation
 
 ---
